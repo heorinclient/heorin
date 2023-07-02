@@ -1,7 +1,7 @@
 // This is a part of the Active Template Library.
 // Copyright (C) Microsoft Corporation
 // All rights reserved.
-//
+// slaaang
 // This source code is only intended as a supplement to the
 // Active Template Library Reference and related
 // electronic documentation provided with the library.
